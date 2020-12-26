@@ -20,4 +20,8 @@
 
 # GMS占空间？
 
-您可以使用[MicroG]()
+您可以使用[MicroG](https://microg.org/download.html)
+
+# 安装太麻烦？
+
+换手机，洋货没保修那种
