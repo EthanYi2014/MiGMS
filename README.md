@@ -10,13 +10,17 @@
 
 若无法启动谷歌商店，请在设置中给予其所有的权限。
 
-若无法安装谷歌，请使用![opengapps](https://opengapps.org/)之![Pico版本](https://github.com/opengapps/opengapps/wiki/Pico-Package)
+若无法免入特安装谷歌，请使用![opengapps](https://opengapps.org/)之![Pico版本](https://github.com/opengapps/opengapps/wiki/Pico-Package)
 
 # 这opengapps有毒？
 
 请一定使用pico版本，即谷歌三件套。否则MIUI桌面会被pixel桌面替代导致卡米。
 
 建议刷入前先备份system目录。
+
+#Play游戏打不开，但其他谷歌服务正常？
+
+请移步到view code区下载插件
 
 # GMS占空间？
 
